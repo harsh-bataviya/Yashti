@@ -1,4 +1,4 @@
-const targetDate = new Date('2025-10-26T00:00:00').getTime(); // Set to midnight on Oct 26, 2025; adjust time if needed
+const targetDate = new Date('2025-10-26T10:00:00').getTime(); // Set to midnight on Oct 26, 2025; adjust time if needed
 
 function updateCountdown() {
     const now = new Date().getTime();
